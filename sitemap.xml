@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://rogerkrw.github.io/rogeriokreidlow.github.io/posts/welcome/index.html</loc>
+    <loc>https://rogerkrw.github.io/rogeriokreidlow.github.io/blog.html</loc>
+    <lastmod>2024-11-25T01:17:46.898Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rogerkrw.github.io/rogeriokreidlow.github.io/posts/post-with-code/index.html</loc>
     <lastmod>2024-11-25T01:17:46.898Z</lastmod>
   </url>
   <url>
@@ -9,11 +13,11 @@
     <lastmod>2024-11-25T01:17:46.898Z</lastmod>
   </url>
   <url>
-    <loc>https://rogerkrw.github.io/rogeriokreidlow.github.io/index.html</loc>
-    <lastmod>2024-11-25T01:17:46.898Z</lastmod>
+    <loc>https://rogerkrw.github.io/rogeriokreidlow.github.io/portfolio.html</loc>
+    <lastmod>2024-11-25T01:28:45.186Z</lastmod>
   </url>
   <url>
-    <loc>https://rogerkrw.github.io/rogeriokreidlow.github.io/posts/post-with-code/index.html</loc>
+    <loc>https://rogerkrw.github.io/rogeriokreidlow.github.io/posts/welcome/index.html</loc>
     <lastmod>2024-11-25T01:17:46.898Z</lastmod>
   </url>
 </urlset>
